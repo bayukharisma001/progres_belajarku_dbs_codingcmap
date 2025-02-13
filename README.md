@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Dimas.
+### Hi! 👋 I'm Bayu Kharisma.
 Informatics Student at Universitas Ahmad Dahlan, Passionate about software development, problem-solving, and building innovative tech solutions.-
 
 🔥 About Me
