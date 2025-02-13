@@ -1,15 +1,9 @@
-# progres_belajarku_dbs_codingcmap
+👋 Hi, I'm Bayu Kharisma!
+💻 Informatics Student at Universitas Ahmad Dahlan
+🚀 Passionate about software development, problem-solving, and building innovative tech solutions.
 
-Pengalaman Belajar di Dicoding
-
-14 Juni 2021
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
-* Belajar tentang apa itu Java dan alasan menggunakannya.
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
-
-
-15 Juni 2021
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
-* Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
-* Belajar control flow dalam Java, seperti perulangan dan percabangan.
-* Belajar tipe data koleksi, seperti list, set, dan map.
+🔥 About Me
+🎓 Currently studying Informatics at Universitas Ahmad Dahlan.
+💡 Interested in Web Development, Machine Learning, and Software Engineering.
+⚙️ Familiar with JavaScript, Python, Java, and C++.
+📚 Always eager to learn new technologies and improve my coding skills.
